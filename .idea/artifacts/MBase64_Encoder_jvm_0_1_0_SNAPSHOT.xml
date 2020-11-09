@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="MBase64-Encoder-jvm-0.1.0-SNAPSHOT">
-    <output-path>$PROJECT_DIR$/build/libs</output-path>
-    <root id="archive" name="MBase64-Encoder-jvm-0.1.0-SNAPSHOT.jar">
-      <element id="module-output" name="MBase64-Encoder.jvmMain" />
-    </root>
-  </artifact>
-</component>
