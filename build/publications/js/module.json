@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../MBase64-Encoder/0.1.0-SNAPSHOT/MBase64-Encoder-0.1.0-SNAPSHOT.module",
+    "group": "me.dev",
+    "module": "MBase64-Encoder",
+    "version": "0.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "m2zkisnmljayla6hsaepelluly"
+    }
+  },
+  "variants": [
+    {
+      "name": "js-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MBase64-Encoder-js-0.1.0-SNAPSHOT.jar",
+          "url": "MBase64-Encoder-js-0.1.0-SNAPSHOT.jar",
+          "size": 43927,
+          "sha512": "e2a19245cbf43659aefdc0bf2849652870508669a6d85211ea4e2f5b290ff9731d28b4f2bc9981caf0f7c05326a3d7f112f8bd4632213f70e80e85f9a30fd327",
+          "sha256": "1f91459975576c540973b340212cb3e4b9e011358ce604028891e6a62012d8c8",
+          "sha1": "546d6a4b32d5d2238837746d696d5d1cb243edd7",
+          "md5": "070fac1f5f94f83a2dd83b291de732e2"
+        }
+      ]
+    },
+    {
+      "name": "js-runtime",
+      "attributes": {
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MBase64-Encoder-js-0.1.0-SNAPSHOT.jar",
+          "url": "MBase64-Encoder-js-0.1.0-SNAPSHOT.jar",
+          "size": 43927,
+          "sha512": "e2a19245cbf43659aefdc0bf2849652870508669a6d85211ea4e2f5b290ff9731d28b4f2bc9981caf0f7c05326a3d7f112f8bd4632213f70e80e85f9a30fd327",
+          "sha256": "1f91459975576c540973b340212cb3e4b9e011358ce604028891e6a62012d8c8",
+          "sha1": "546d6a4b32d5d2238837746d696d5d1cb243edd7",
+          "md5": "070fac1f5f94f83a2dd83b291de732e2"
+        }
+      ]
+    },
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "available-at": {
+        "url": "../../MBase64-Encoder-metadata/0.1.0-SNAPSHOT/MBase64-Encoder-metadata-0.1.0-SNAPSHOT.module",
+        "group": "me.dev",
+        "module": "MBase64-Encoder-metadata",
+        "version": "0.1.0-SNAPSHOT"
+      }
+    }
+  ]
+}

@@ -6,8 +6,8 @@
         <dependsOnModuleNames>MBase64-Encoder:commonTest</dependsOnModuleNames>
         <sourceSets>
           <sourceSet>MBase64-Encoder.jsMain</sourceSet>
-          <sourceSet>MBase64-Encoder.commonMain</sourceSet>
           <sourceSet>MBase64-Encoder.commonTest</sourceSet>
+          <sourceSet>MBase64-Encoder.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>

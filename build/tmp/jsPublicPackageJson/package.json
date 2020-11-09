@@ -1,0 +1,10 @@
+{
+  "main": "kotlin/MBase64-Encoder.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "MBase64-Encoder",
+  "version": "0.1.0-SNAPSHOT"
+}

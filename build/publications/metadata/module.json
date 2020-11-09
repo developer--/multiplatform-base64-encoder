@@ -1,0 +1,47 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../MBase64-Encoder-native/0.1.0-SNAPSHOT/MBase64-Encoder-native-0.1.0-SNAPSHOT.module",
+    "group": "me.dev",
+    "module": "MBase64-Encoder-native",
+    "version": "0.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "m2zkisnmljayla6hsaepelluly"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MBase64-Encoder-metadata-0.1.0-SNAPSHOT.jar",
+          "url": "MBase64-Encoder-metadata-0.1.0-SNAPSHOT.jar",
+          "size": 981,
+          "sha512": "fdff730520de0cb9f51c8cd0075116cde8cfbbd84edc25c935f6d7f8e88b46ec4882fbdcedf7f9fa32de34abfc87359c72525ce4a0a07d8d58364e393654edaa",
+          "sha256": "54b6ed93bca94747a6fa45a8f3461be593d0c7b2f4c7c4c61efc5e77f156e447",
+          "sha1": "cff395eaa10bae60fbd9e988ab6b87f05a052e22",
+          "md5": "a4f346a607ad2dbc5ddd22d4854ebd70"
+        }
+      ]
+    }
+  ]
+}

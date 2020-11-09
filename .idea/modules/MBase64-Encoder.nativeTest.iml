@@ -5,9 +5,9 @@
       <configuration version="3" platform="Native (macos_x64) " allPlatforms="Native []/Native [macos_x64]" useProjectSettings="false" isTestModule="true" externalProjectId="MBase64-Encoder">
         <dependsOnModuleNames>MBase64-Encoder:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>MBase64-Encoder.commonMain</sourceSet>
           <sourceSet>MBase64-Encoder.nativeMain</sourceSet>
           <sourceSet>MBase64-Encoder.commonTest</sourceSet>
+          <sourceSet>MBase64-Encoder.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>

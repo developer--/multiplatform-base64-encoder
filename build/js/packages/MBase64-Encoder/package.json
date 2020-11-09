@@ -1,0 +1,16 @@
+{
+  "main": "kotlin/MBase64-Encoder.js",
+  "devDependencies": {
+    "dukat": "0.5.7"
+  },
+  "dependencies": {
+    "kotlin": "file:/Users/mrkt/Documents/server/MBase64-Encoder/build/js/packages_imported/kotlin/1.4.10",
+    "kotlin-test-js-runner": "file:/Users/mrkt/Documents/server/MBase64-Encoder/build/js/packages_imported/kotlin-test-js-runner/1.4.10",
+    "kotlin-test": "file:/Users/mrkt/Documents/server/MBase64-Encoder/build/js/packages_imported/kotlin-test/1.4.10"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "MBase64-Encoder",
+  "version": "0.1.0-SNAPSHOT"
+}
